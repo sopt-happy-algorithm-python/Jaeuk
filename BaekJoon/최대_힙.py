@@ -18,3 +18,4 @@ for _ in range(numbers):
             print(-1 * heapq.heappop(heap))
         except:
             print(0)
+
